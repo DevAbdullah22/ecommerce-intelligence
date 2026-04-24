@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Abdullah/Desktop/ecommerce-intelligence/notebooks/../mlflow/949158169714174170/models/m-8c7bc08d506d4d06bd8629a278471054/artifacts
+creation_timestamp: 1776871406590
+experiment_id: '949158169714174170'
+last_updated_timestamp: 1776871419090
+model_id: m-8c7bc08d506d4d06bd8629a278471054
+model_type: null
+name: satisfaction_model
+source_run_id: 4ee7e1cd9196450b98b3191c3d5af580
+status: 2
+status_message: null
