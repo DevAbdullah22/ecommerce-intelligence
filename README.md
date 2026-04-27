@@ -241,5 +241,5 @@ docker compose up --build
 ## Author
 
 **Abdullah (DevAbdullah22)**  
-Information Technology Engineer  
+Software Engineer  
 Machine Learning · Data Science · Full-Stack Developer
