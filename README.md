@@ -144,12 +144,19 @@ ecommerce-intelligence/
 ## Key Business Insights
 
 🚚 Delivery time = #1 driver of customer dissatisfaction (82%)
+
 👥 95% of customers purchase only once — high natural churn
+
 💄 health_beauty = top revenue category (R$ 1.26M)
+
 🔍 4,933 suspicious orders detected automatically
+
 📈 Growth forecast: R$ 60K/day by Nov 2018
+
 ⭐ 57.8% of customers give 5-star reviews
+
 📅 Monday & Tuesday = highest sales days
+
 🛒 November 2017 peak = Black Friday effect
 ---
 
@@ -235,4 +242,4 @@ docker compose up --build
 
 **Abdullah (DevAbdullah22)**  
 Information Technology Engineer  
-Machine Learning · Data Science · Backend Development
+Machine Learning · Data Science · Full-Stack Developer
